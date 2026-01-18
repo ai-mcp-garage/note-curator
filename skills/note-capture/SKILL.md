@@ -90,10 +90,10 @@ confidence: <low | medium | high>
 5. Write sections with appropriate headings
 6. Review for completeness — nothing should be lost
 
-## When to Use This vs note-strategic
+## When to Use This vs note-planner
 
 - **Use note-capture** when you know you want one note from the input
-- **Use note-strategic** when you need to plan how to organize content first
+- **Use note-planner** when you need to plan how to organize content first
 
 ## Non-Goals
 

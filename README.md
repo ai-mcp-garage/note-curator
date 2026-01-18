@@ -7,7 +7,7 @@ Skills for capturing, organizing, and retrieving structured notes with YAML fron
 | Skill | Purpose |
 |-------|---------|
 | **note-capture** | Capture raw input into a structured note |
-| **note-strategic** | Plan how to organize content before capturing |
+| **note-planner** | Plan how to organize content before capturing |
 | **note-lookup** | Search notes by metadata, tags, or content |
 
 ## Workflow
@@ -15,7 +15,7 @@ Skills for capturing, organizing, and retrieving structured notes with YAML fron
 ```
 Raw Input
     ↓
-note-strategic (plan structure, if needed)
+note-planner (plan structure, if needed)
     ↓
 note-capture (create structured note)
     ↓
@@ -55,7 +55,7 @@ Takes raw, unstructured input and creates a well-organized note:
 - Structures content with headings
 - Preserves all information (loss-minimizing)
 
-### note-strategic
+### note-planner
 
 Planning mode for when you're not sure how to organize:
 - Analyzes input for distinct topics
@@ -95,7 +95,7 @@ skills/
 │   ├── SKILL.md
 │   └── references/
 │       └── frontmatter-schema.md
-├── note-strategic/
+├── note-planner/
 │   ├── SKILL.md
 │   └── references/
 │       └── planning-heuristics.md

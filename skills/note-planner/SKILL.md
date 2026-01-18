@@ -1,17 +1,17 @@
 ---
-name: note-strategic
-description: Strategic planning for note organization. Use when you have a large amount of content and need to plan how to structure it before condensing. Proposes note breakdowns and organization strategies.
+name: note-planner
+description: Plan how to organize content into notes. Use when you have a large amount of content and need to figure out how to structure it before capturing. Proposes note breakdowns and organization strategies.
 ---
 
-# Note Strategic
+# Note Planner
 
-Architect mode for planning note structure before condensing.
+Plan note structure before capturing.
 
 ## When This Triggers
 
 - User has a lot of content and isn't sure how to organize it
 - User asks "how should I structure this?"
-- User wants to plan before condensing
+- User wants to plan before capturing
 - User needs help deciding what becomes one note vs multiple
 
 ## Purpose
@@ -121,11 +121,11 @@ This is collaborative. Ask:
 
 - This is not atomization (splitting everything into tiny pieces)
 - This is not automatic — it's a planning discussion
-- This doesn't create notes — that's note-condense's job
+- This doesn't create notes — that's note-capture's job
 
 ## Workflow
 
-1. Run **note-strategic** to plan structure
+1. Run **note-planner** to plan structure
 2. Discuss and refine with user
 3. Run **note-capture** for each agreed note
 
